@@ -1,5 +1,5 @@
-## Hello everyone
-<h3 align="center"> I am Uriel, a web developer specializing in front-end development. My focus is on creating visually appealing and functional web applications and sites that offer an exceptional user experience. I am passionate about my work and always looking for ways to improve my skills and knowledge to stay up-to-date in my field.</h3>
+## Hello everyone 👋
+<p align="center"> I'am Uriel, a web developer specializing in front-end development. My focus is on creating visually appealing and functional web applications and sites that offer an exceptional user experience. I am passionate about my work and always looking for ways to improve my skills and knowledge to stay up-to-date in my field.</p>
 
 - 🌱 I’m currently learning **React, Laravel,**
 
